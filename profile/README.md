@@ -1,3 +1,4 @@
+![Upbound Logo](https://upbound.com/assets/images/Upbound-logo.png?v=Mar-16-v1)
 # Welcome to the Upbound Group GitHub Organization
 
 ## Authentication Required
